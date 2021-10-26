@@ -1,0 +1,11 @@
+
+body{background-image:  url("http://wonderfulengineering.com/wp-content/uploads/2014/09/blue-wallpaper-38.jpg"); 
+    text-align: center; 
+    color: antiquewhite; }
+#but{
+    background: transparent;
+    color: antiquewhite;
+    width: 4cm;
+    height: 1cm;
+    border-width: thick; color: cyan;
+}
